@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+db.sqlite3
+
+# Ignore local environment settings
+.env
+
+# Ignore secret keys and environment settings
+*.env
+
+# Virtual environment
+myenv/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+.idea/
+
+# MacOS files
+.DS_Store
+sonar-project.properties
