@@ -25,6 +25,7 @@ db.sqlite3
 myenv/
 venv/
 ENV/
+images/
 
 # VS Code settings
 .vscode/
