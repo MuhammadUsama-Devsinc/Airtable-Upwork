@@ -6,12 +6,18 @@ A Python-based pipeline for fetching data from Airtable, processing images, and 
 
 ```
 Airtable-Upwork/
-├── config.env                 # Environment variables (gitignored)
-├── pipeline.py               # Main orchestration script
-├── image_utils.py            # Image processing and S3 uploads
-├── data_utils.py             # Airtable data handling
-├── requirements.txt          # Python dependencies
-└── README.md                # This file
+├── .env                              
+    # Environment variables (gitignored)
+├── pipeline.py               
+    # Main orchestration script
+├── image_utils.py               
+    # Image processing and S3 uploads
+├── data_utils.py             
+    # Airtable data handling
+├── requirements.txt          
+    # Python dependencies
+└── README.md                 
+    # This file
 ```
 
 ## Setup
